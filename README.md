@@ -1,6 +1,5 @@
 # New project
 
 This project was created from local system.
-Created by Afreen Khan
-=======
-# project2
+Created by Afreen Khan.
+
